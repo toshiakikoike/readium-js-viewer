@@ -80,9 +80,9 @@ Follow the same instructions as setting up the [Basic EPUB viewer](#basic-epub-v
 
 Note the `embedded=true` query parameter. This adds a special UI and handling for a smaller screen. See the `embed.html` file in the root of the source tree for a complete example that works with the [Basic EPUB viewer](#basic-epub-viewer) setup.
 
-### Chrome Packaged AppTo run the Chrome packaged app, you will need to do the following:
 
 ## Chrome Packaged App
+
 To run the Chrome packaged app, you will need to do the following:
 
 * install Node.JS (details depend on your operating system)
